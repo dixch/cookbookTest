@@ -3,10 +3,4 @@
 -avocado
 -lemon juice
 -spices
--chocolate
--butter
--flour
--eggs
--milk
--chicken
-
+-I'm actually a vegan
