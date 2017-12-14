@@ -3,8 +3,4 @@
 -avocado
 -lemon juice
 -spices
--chocolate
--butter
--flour
--eggs
--milk
+im vegan tho
